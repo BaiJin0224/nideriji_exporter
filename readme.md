@@ -1,5 +1,5 @@
 
-# Nideriji Diary Exporter（你得日记导出工具）
+# Nideriji Diary Exporter（你的日记导出工具）
 
 一个用于 **登录 nideriji.cn**，批量导出你的日记正文与图片，并生成可离线浏览的 **HTML（日历导航 + 图文混排）** 的小工具。
 
